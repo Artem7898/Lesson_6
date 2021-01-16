@@ -1,4 +1,4 @@
-# Lesson_6 algorithms
+# Lesson_6 algorithms Python
 
 
 Задание 1.
